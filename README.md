@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html lang="en">
 <head>
 	<title>Kohl's Sr. Java Engineer</title>
@@ -21,7 +20,6 @@
 	</style>
 </head>
 <body>
-	<!-- For information on this opening contact jose.vigil@kohls.com-->
 	<a href="http://kohlscareers.com/"> 
 		<img src="http://kohlscareers.com/wp-content/uploads/copy-kohls-careers.png" alt="Kohl's Logo"/>
 	</a>

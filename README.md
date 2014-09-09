@@ -2,21 +2,6 @@
 <head>
 	<title>Kohl's Sr. Java Engineer</title>
 	<style type=text/css>
-			img {
-				Display: block;
-				margin-left: Auto;
-				margin-right: Auto;
-			}
-			#main {
-				Display: block;
-				text-shadow: 2px 2px #000000;
-				background-color: #008599;
-				vertical-align: middle;
-				height:40px
-			}
-			#footer {
-				background-color: #008599;
-			}
 	</style>
 </head>
 <body>

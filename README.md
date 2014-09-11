@@ -83,18 +83,16 @@
 			</font>
 		</font>
 	</ul>
-	<br>
-	<form action="https://sjobs.brassring.com/1033/asp/tg/GQLogin.asp?SID=^9MxefIezYwbAIsr84kvJZa0iW/9UV6vmbn6nxnWHA5cwnGNAKpF5xymEFi31v_slp_rhc_11&fjd=true&referer=&gqid=445&jobinfo=__321176|1|445__&applycount=1&type=search_jobdetail" method="post">
-<button type="submit">Apply Now</button>
-</form>
-	<br>
-	<div id="footer" style="line-height: 16px; font-family: 'Lucida Grande', 'Lucida Sans', Verdana, Georgia, Helvetica, Arial; font-size: 11px">
+		<div id="footer" style="line-height: 16px; font-family: 'Lucida Grande', 'Lucida Sans', Verdana, Georgia, Helvetica, Arial; font-size: 11px">
 		<p style="padding-bottom: 2px">
 			<span style="color: #ffffff">
 				<font style="font-family: arial, sans-serif">
 					<font style="font-size: small">This describes general information about the position however should not be considered comprehensive. Our company reserves the right to modify job duties or descriptions at any time. This is not an employment contract.</font>
 				</font>
 			</span>
+<br>
+<br>
+	<a href="https://sjobs.brassring.com/1033/asp/tg/GQLogin.asp?SID=^KNz9H1/Uupf7aDnFf6PHKqlDscBRJN6K2S9IfrpO5Tqzmf3Ibr4zmHba_slp_rhc_dM_slp_rhc_rw4y&fjd=true&referer=&gqid=445&jobinfo=__321176|1|445__&applycount=1&type=search_jobdetail" class="button">Apply Now</a>
 		</p>
 	</div>
 	</body>

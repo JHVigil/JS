@@ -92,7 +92,7 @@
 			</span>
 <br>
 <br>
-	<a href="https://sjobs.brassring.com/1033/asp/tg/GQLogin.asp?SID=^KNz9H1/Uupf7aDnFf6PHKqlDscBRJN6K2S9IfrpO5Tqzmf3Ibr4zmHba_slp_rhc_dM_slp_rhc_rw4y&fjd=true&referer=&gqid=445&jobinfo=__321176|1|445__&applycount=1&type=search_jobdetail" class="button" target="_blank">Apply Now</a>
+	<a href="https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?partnerid=25615&siteid=5302&jobid=321176" class="button" target="_blank">Apply</a>
 		</p>
 	</div>
 	</body>
